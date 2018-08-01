@@ -1,0 +1,23 @@
+.menu-section{
+    padding-top: 50px;
+}
+
+.middle-section{
+    padding: 0 200px;
+}
+
+.menu-title{
+    text-align: center;
+}
+
+.menu-column {
+    float: left;
+    width: 50%;
+    line-height: 20px;
+}
+
+.menu-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

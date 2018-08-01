@@ -32,6 +32,9 @@ class App extends Component {
           </Router>
 
           <footer>
+              <div className='footer-wrapper'>Site created by Simon Lam.
+                  Enquiries contact "thesimonlam@gmail.com"
+                  © 2018 Simon Lam | Sunshine Takeaway. All Rights Reserved.</div>
           </footer>
       </div>
     );

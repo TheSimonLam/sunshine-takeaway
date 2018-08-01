@@ -1,0 +1,56 @@
+.image-section{
+    background: url('../../img/main-image.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 70vh;
+    position: relative;
+}
+
+.image-section-text{
+    text-align: center;
+    font-size: 7em;
+    padding-top: 25vh;
+    color: white;
+}
+
+.left-image-section-wrapper{
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+}
+.right-image-section-wrapper{
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.food-hygiene-logo{
+    height: 80px;
+}
+
+.credit-cards-logo{
+    height: 60px;
+}
+
+.section-wrapper{
+    padding: 50px 200px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.number-text{
+    text-decoration: underline;
+}
