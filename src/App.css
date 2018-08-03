@@ -43,3 +43,30 @@ footer{
   text-align: center;
   color: white;
 }
+
+/*Tablet*/
+@media only screen and (max-width: 768px) {
+  .footer-wrapper{
+    font-size: 0.9em;
+  }
+}
+
+/*Mobile*/
+@media only screen and (max-width: 500px) {
+  .header-logo{
+    height: 50px;
+  }
+
+  .header-buttons-container{
+    margin-top: 20px;
+  }
+
+  .header-link{
+    font-size: 1em;
+    padding: 0 7px;
+  }
+
+  .footer-wrapper{
+    font-size: 0.6em;
+  }
+}

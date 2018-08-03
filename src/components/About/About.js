@@ -5,7 +5,7 @@ class About extends Component {
     render() {
         return (
             <div>
-                <div className='image-section'>
+                <div className='image-section-about'>
                     <div className='image-section-text'>Sunshine Takeaway</div>
                     <div className='left-image-section-wrapper'><img className='credit-cards-logo' src={require('../../img/creditcards.png')} alt='yolo'/></div>
                     <div className='right-image-section-wrapper'><img className='food-hygiene-logo' src={require('../../img/food-hygiene-rating.png')} alt='yolo'/></div>
@@ -39,7 +39,7 @@ class About extends Component {
                             <div>Q: How long will my food take to make? <br/>A: We're usually busier on weekends, but on average it should take around 10 minutes for you food to be prepared.
                                 If you phone in for collection, we can prepare your food before you arrive making the process faster. </div>
                             <br/>
-                            <div>Q: Do you have any special offers? <br/>A: If your order comes to £22 or more, you will be offered a free bag of prawn crackers. £32 or more, and you will be offered either free prawn crackers or a 2L bottle of soft drink. £42 or more and you will get both!</div>
+                            <div>Q: Do you have any special offers? <br/>A: If your order comes to £23 or more, you will be offered a free bag of prawn crackers. £42 or more and you will receive a 2L bottle of soft drink for free.</div>
                             <br/>
                         </div>
                     </div>

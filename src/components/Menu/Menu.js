@@ -6,12 +6,12 @@ class Menu extends Component {
     render() {
         let menuList = menu.map(function(menuCategory, i){
             let itemList = menuCategory.item.map(function(item, x){
-                return <div className="menu-column" key={x}>
-                    <div className="menu-column">{item.name}</div>
-                    <div className="menu-column">{item.price}</div>
+                return <div className="menu-column-outer" key={x}>
+                    <div className="menu-column-inner">{item.name}</div>
+                    <div className="menu-column-inner menu-price-bottom-right">{item.price}</div>
                 </div>;
             });
-            return <div className="menu-column" key={i}>
+            return <div className="column" key={i}>
                         <h2>{menuCategory.name}</h2>
                         {itemList}
                     </div>;
