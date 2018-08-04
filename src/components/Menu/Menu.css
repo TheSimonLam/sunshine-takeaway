@@ -3,21 +3,53 @@
 }
 
 .middle-section{
-    padding: 0 200px;
+    padding: 0 200px 100px 200px;
 }
 
 .menu-title{
     text-align: center;
 }
 
-.menu-column {
+.menu-column-inner {
     float: left;
     width: 50%;
     line-height: 20px;
+}
+
+.menu-column-outer{
+    float: left;
+    width: 50%;
+    line-height: 20px;
+    position: relative;
+}
+
+.menu-price-bottom-right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 
 .menu-row:after {
     content: "";
     display: table;
     clear: both;
+}
+
+/*Small Desktop*/
+@media only screen and (max-width: 1000px) {
+    .middle-section {
+        padding: 0 10px 50px 10px;
+    }
+}
+
+/*Tablet*/
+@media only screen and (max-width: 768px) {
+    .column{
+        width: 100%;
+    }
+}
+
+/*Mobile*/
+@media only screen and (max-width: 500px) {
+
 }

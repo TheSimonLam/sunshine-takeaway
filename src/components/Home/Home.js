@@ -5,7 +5,7 @@ class Home extends Component {
     render() {
         return (
             <div>
-                <div className='image-section'>
+                <div className='image-section-home'>
                     <div className='image-section-text'>Sunshine Takeaway</div>
                     <div className='left-image-section-wrapper'><img className='credit-cards-logo' src={require('../../img/creditcards.png')} alt='yolo'/></div>
                     <div className='right-image-section-wrapper'><img className='food-hygiene-logo' src={require('../../img/food-hygiene-rating.png')} alt='yolo'/></div>
@@ -60,6 +60,8 @@ class Home extends Component {
                             <h2 className='number-text'>01978 753000</h2>
                         </div>
                     </div>
+                    <h3>Ewch i food.gov.uk/ratings i ganfod sgor hylendid bwyd ein busnes neu gofynnwch inni beth yw ein sgor hylendid bwyd wrth archebu.</h3>
+                    <h3>Go to food.gov.uk/ratings to find out the food hygiene ratings of our business or ask us for our food hygiene rating when you order.</h3>
                 </div>
             </div>
         );

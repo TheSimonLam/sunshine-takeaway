@@ -1,0 +1,9 @@
+.image-section-about{
+    background: url('../../img/image2.jpeg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 70vh;
+    position: relative;
+}

@@ -1,5 +1,5 @@
-.image-section{
-    background: url('../../img/main-image.jpg') no-repeat center center;
+.image-section-home{
+    background: url('../../img/image3.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -53,4 +53,45 @@
 
 .number-text{
     text-decoration: underline;
+}
+
+/*Small Desktop*/
+@media only screen and (max-width: 1000px) {
+    .section-wrapper {
+        padding: 50px 100px;
+    }
+}
+
+/*Tablet*/
+@media only screen and (max-width: 768px) {
+    .section-wrapper{
+        padding: 50px 10px;
+    }
+
+    .image-section-text{
+        font-size: 6em;
+    }
+}
+
+/*Mobile*/
+@media only screen and (max-width: 500px) {
+    .image-section-text{
+        font-size: 3em;
+    }
+
+    .food-hygiene-logo{
+        height: 50px;
+    }
+
+    .credit-cards-logo{
+        height: 50px;
+    }
+
+    .section-wrapper{
+        padding: 50px 10px;
+    }
+
+    .column{
+        width: 100%;
+    }
 }
