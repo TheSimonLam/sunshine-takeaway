@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "prod": "serve -s build"
+    "prod": "serve -s"
   },
   "devDependencies": {
     "react-redux": "^5.0.7",
