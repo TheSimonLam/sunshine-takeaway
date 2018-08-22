@@ -29,7 +29,7 @@ class Home extends Component {
                                 <tr>
                                     <td>Wednesday</td>
                                     <td>-</td>
-                                    <td>CLOSED</td>
+                                    <td>4:30pm - 10:30pm</td>
                                 </tr>
                                 <tr>
                                     <td>Thursday</td>
