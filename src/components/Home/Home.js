@@ -14,6 +14,13 @@ class Home extends Component {
                     <div className="row">
                         <div className="column">
                             <h1>Opening Times</h1>
+                            <h2 className='red'>Holiday Opening Times</h2>
+                            <div className='red'>Christmas Eve - 4:30pm to 9:00pm</div>
+                            <div className='red'>Christmas Day - CLOSED</div>
+                            <div className='red'>Boxing Day - CLOSED</div>
+                            <div className='red'>New Years Eve - 4:30pm to 9:00pm</div>
+                            <div className='red'>New Years Day - CLOSED</div>
+                            <br/>
                             <table>
                                 <tbody>
                                 <tr>
