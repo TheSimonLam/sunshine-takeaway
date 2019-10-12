@@ -13,6 +13,7 @@
     font-size: 7em;
     padding-top: 25vh;
     color: white;
+    font-weight: bold;
 }
 
 .left-image-section-wrapper{
@@ -38,6 +39,7 @@
 
 .section-wrapper{
     padding: 50px 200px;
+    color: #3a3a3a;
 }
 
 .column {
@@ -53,6 +55,10 @@
 
 .number-text{
     text-decoration: underline;
+}
+
+.red{
+    color: red;
 }
 
 /*Small Desktop*/

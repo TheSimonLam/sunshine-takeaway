@@ -14,7 +14,25 @@ class Home extends Component {
                     <div className="row">
                         <div className="column">
                             <h1>Opening Times</h1>
-                            <table>
+                            <h2 className='red'>JUNE Opening Times</h2>
+                            <div className='red'>Tues 4th - CLOSED</div>
+                            <div className='red'>Wed 5th - 5:30pm - 9:30pm</div>
+                            <div className='red'>Thur 6th - 5:30pm - 10:30pm</div>
+                            <div className='red'>Fri 7th - 5:30pm - 10:30pm</div>
+                            <div className='red'>Sat 8th - 4:30pm - 10:30pm</div>
+                            <div className='red'>Sun 9th - 5:00pm - 9:30pm</div>
+                            <div className='red'>Mon 10th - 5:30pm - 9:30pm</div>
+                            <div className='red'>Tues 11th - CLOSED</div>
+                            <div className='red'>Wed 12th - 5:30pm - 9:30pm</div>
+                            <div className='red'>Thur 13th - 5:30pm - 9:30pm</div>
+                            <div className='red'>Fri 14th - 5:30pm - 10:30pm</div>
+                            <div className='red'>Sat 15th - 4:30pm - 10:30pm</div>
+                            <div className='red'>Sun 16th - 5:00pm - 10:30pm</div>
+                            <div className='red'>Mon 17th - CLOSED</div>
+                            <div className='red'>Tue 18th - CLOSED</div>
+                            <div className='red'>Wed 19th - 4:30pm - 10:30pm</div>
+                            <br/>
+                            {/* <table>
                                 <tbody>
                                 <tr>
                                     <td>Monday</td>
@@ -29,7 +47,7 @@ class Home extends Component {
                                 <tr>
                                     <td>Wednesday</td>
                                     <td>-</td>
-                                    <td>CLOSED</td>
+                                    <td>4:30pm - 10:30pm</td>
                                 </tr>
                                 <tr>
                                     <td>Thursday</td>
@@ -52,7 +70,7 @@ class Home extends Component {
                                     <td>5:00pm - 10:30pm</td>
                                 </tr>
                                 </tbody>
-                            </table>
+                            </table> */}
                         </div>
                         <div className="column">
                             <h1>We are at your service for fish, chips, and Chinese Takeaways</h1>
