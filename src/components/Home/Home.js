@@ -16,6 +16,27 @@ class Home extends Component {
                             <h1>Opening Times</h1>
                              <table>
                                 <tbody>
+                                <tr style={{"color": "red"}}>
+                                    <td>24th Dec</td>
+                                    <td>CLOSED</td>
+                                </tr>
+                                <tr style={{"color": "red"}}>
+                                    <td>25th Dec</td>
+                                    <td>CLOSED</td>
+                                </tr>
+                                <tr style={{"color": "red"}}>
+                                    <td>26th Dec</td>
+                                    <td>CLOSED</td>
+                                </tr>
+                                <tr style={{"color": "red"}}>
+                                    <td>31st Dec</td>
+                                    <td>CLOSED</td>
+                                </tr>
+                                <tr style={{"color": "red"}}>
+                                    <td>1st Jan</td>
+                                    <td>CLOSED</td>
+                                </tr>
+                                <br></br>
                                 <tr>
                                     <td>Monday</td>
                                     <td>4:30pm - 10:30pm</td>
