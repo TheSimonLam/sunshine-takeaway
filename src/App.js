@@ -9,6 +9,7 @@ import './App.css';
 import Home from "./components/Home/Home";
 import Menu from "./components/Menu/Menu";
 import About from "./components/About/About";
+import Popup from "./components/Popup/Popup";
 
 class App extends Component {
     render() {
@@ -26,6 +27,8 @@ class App extends Component {
                                 <Link className="header-link" to="/about">About</Link>
                             </div>
                         </header>
+
+                        <Popup/>
 
                         <div className='cookie-notice-wrapper'>
                             <span>This site uses cookies to help improve user experience. By continuing to use this site, you agree to let us use cookies.</span>

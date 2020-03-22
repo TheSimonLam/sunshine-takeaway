@@ -1,5 +1,5 @@
 .image-section-home{
-    background: url('../../img/image3.jpg') no-repeat center center;
+    background: url('../../img/image4.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -11,7 +11,7 @@
 .image-section-text{
     text-align: center;
     font-size: 7em;
-    padding-top: 25vh;
+    padding-top: 10vh;
     color: white;
     font-weight: bold;
 }
