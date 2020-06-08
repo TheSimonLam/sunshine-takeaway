@@ -22,19 +22,7 @@ class Popup extends Component {
 
                         <h2 className={"notice-title"}>Notice</h2>
                         <div className={"notice-content"}>
-                            We are closed from Monday 23rd March for isolation purposes as recommended to slow the spreading of the virus.
-                        </div>
-
-                        <br></br>
-
-                        <div className={"notice-content"}>
-                            We hope it will be for 3 weeks but may be longer depending on the situation at the time.
-                        </div>
-
-                        <br></br>
-
-                        <div className={"notice-content"}>
-                            Please visit again for updates.
+                            We are temporarily closed due to lockdown
                         </div>
                     </div>
                 </div>
