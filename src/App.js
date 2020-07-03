@@ -10,6 +10,7 @@ import Home from "./components/Home/Home";
 import Menu from "./components/Menu/Menu";
 import About from "./components/About/About";
 import Popup from "./components/Popup/Popup";
+import Covid from "./components/Covid/Covid";
 
 class App extends Component {
     render() {
@@ -30,6 +31,10 @@ class App extends Component {
 
                         <Popup/>
 
+                        <div class="banner">
+                            <Link className="banner-link" to="/covid">Click here for order info regarding Corona virus</Link>
+                        </div>
+
                         <div className='cookie-notice-wrapper'>
                             <span>This site uses cookies to help improve user experience. By continuing to use this site, you agree to let us use cookies.</span>
                         </div>
@@ -37,6 +42,7 @@ class App extends Component {
                         <Route exact path="/" component={Home}/>
                         <Route path="/menu" component={Menu}/>
                         <Route path="/about" component={About}/>
+                        <Route path="/covid" component={Covid}/>
                     </div>
                 </Router>
 

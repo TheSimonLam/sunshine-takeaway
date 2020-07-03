@@ -55,6 +55,25 @@ footer{
   font-weight: bold;
 }
 
+.banner{
+  width: 100%;
+  background-color: #B22222;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+.banner-link{
+  text-decoration: underline;
+  font-size: 1em;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-link:visited{
+  color: white;
+}
+
 /*Tablet*/
 @media only screen and (max-width: 768px) {
   .footer-wrapper{
