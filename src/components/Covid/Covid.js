@@ -5,7 +5,7 @@ class Covid extends Component {
     render() {
         return (
             <div class="covid-info-container">
-                <div class="covid-info-title">Covid-19 Distancing and Ordering procedures</div>
+                <div class="covid-info-title">New distancing and ordering procedures</div>
                 <div class="covid-info-description">
                     <div>
                         In line with other shops, we have had to impose some sensible rules to keep everyone safe from Covid-19.

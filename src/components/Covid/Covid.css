@@ -1,7 +1,8 @@
 .covid-info-container{
     text-align: center;
-    margin: 20px;
     min-height: 100vh;
+    margin-top: 90px;
+    margin: 20px;
 }
 
 .covid-info-title{
