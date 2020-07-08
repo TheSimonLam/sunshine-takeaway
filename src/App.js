@@ -31,7 +31,7 @@ class App extends Component {
 
                         <Popup/>
 
-                        <div class="banner">
+                        <div className="banner">
                             <Link className="banner-link" to="/covid">Click here for order info regarding Corona virus</Link>
                         </div>
 

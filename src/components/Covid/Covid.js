@@ -4,9 +4,9 @@ import "./Covid.css";
 class Covid extends Component {
     render() {
         return (
-            <div class="covid-info-container">
-                <div class="covid-info-title">New distancing and ordering procedures</div>
-                <div class="covid-info-description">
+            <div className="covid-info-container">
+                <div className="covid-info-title">New distancing and ordering procedures</div>
+                <div className="covid-info-description">
                     <div>
                         In line with other shops, we have had to impose some sensible rules to keep everyone safe from Covid-19.
                     </div>
@@ -21,6 +21,12 @@ class Covid extends Component {
 
                     <div>
                         We will now pack your order ready for your arrival.
+                    </div>
+
+                    <br/>
+
+                    <div>
+                        When packing your order, we will automatically charge you 5p per carrier bag used. We are sorry but we are  unable to accept your own carrier bags for reuse at this time.
                     </div>
 
                     <br/>

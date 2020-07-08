@@ -22,9 +22,9 @@ class Popup extends Component {
 
                         <h2 className={"notice-title"}>Notice</h2>
                         <div className={"notice-content"}>
-                            We are currently still closed following general lockdown rules for Wales. 
+                            Now open as normal. 
                             <br/>
-                            We will re-open on <b>Wednesday 8th July.</b>
+                            Please read our Covid-19 information
                         </div>
                     </div>
                 </div>
