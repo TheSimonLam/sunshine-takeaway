@@ -38,7 +38,7 @@ class Covid extends Component {
                     <br/>
 
                     <div>
-                        On arrival, if you have come to pick up a phone order, don’t join the queue. Instead, wait until your pickup time card is displayed, then collect your meal from the hatch.
+                        On arrival, if you have come to pick up a phone order, don’t join the queue. Instead, wait until your name or time is called, then collect your meal from the hatch.
                     </div>
 
                     <br/>
