@@ -39,7 +39,7 @@ class Home extends Component {
                                 <br></br> */}
                                 <tr>
                                     <td>Monday</td>
-                                    <td>CLOSED</td>
+                                    <td>4:30pm - 10:00pm</td>
                                 </tr>
                                 <tr>
                                     <td>Tuesday</td>
@@ -47,7 +47,7 @@ class Home extends Component {
                                 </tr>
                                 <tr>
                                     <td>Wednesday</td>
-                                    <td>CLOSED</td>
+                                    <td>4:30pm - 10:00pm</td>
                                 </tr>
                                 <tr>
                                     <td>Thursday</td>
@@ -63,7 +63,7 @@ class Home extends Component {
                                 </tr>
                                 <tr>
                                     <td>Sunday</td>
-                                    <td>CLOSED</td>
+                                    <td>5:00pm - 10:00pm</td>
                                 </tr>
                                 </tbody>
                             </table>
