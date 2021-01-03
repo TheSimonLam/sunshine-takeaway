@@ -14,9 +14,14 @@ class Home extends Component {
                     <div className="row">
                         <div className="column">
                             <h1>Opening Times</h1>
+                            <div style={{"color": "red"}}>
+                                Due to the recent rise in COVID cases, we'll be temporarily closed.
+                                <br/>
+                                <b>Open again on</b> Wednesday 20th January
+                            </div>
                              <table>
                                 <tbody>
-                                <tr style={{"color": "red"}}>
+                                {/* <tr style={{"color": "red"}}>
                                     <td>24th Dec</td>
                                     <td>4:30pm - 9:00pm</td>
                                 </tr>
@@ -35,9 +40,11 @@ class Home extends Component {
                                 <tr style={{"color": "red"}}>
                                     <td>1st Jan</td>
                                     <td>CLOSED</td>
-                                </tr>
-                                <br></br>
-                                <tr>
+                                </tr> */}
+
+                                {/* <br></br> */}
+
+                                {/* <tr>
                                     <td>Monday</td>
                                     <td>4:30pm - 10:00pm</td>
                                 </tr>
@@ -64,7 +71,7 @@ class Home extends Component {
                                 <tr>
                                     <td>Sunday</td>
                                     <td>5:00pm - 10:00pm</td>
-                                </tr>
+                                </tr> */}
                                 </tbody>
                             </table>
                         </div>
