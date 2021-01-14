@@ -15,9 +15,9 @@ class Home extends Component {
                         <div className="column">
                             <h1>Opening Times</h1>
                             <div style={{"color": "red"}}>
-                                Due to the recent rise in COVID cases, we'll be temporarily closed.
+                            Due to the large numbers of Covid-19 cases in Wrexham we are extending our voluntary lockdown for an extra week
                                 <br/>
-                                <b>Open again on</b> Wednesday 20th January
+                                <b>Open again on</b> Wednesday 27th January
                             </div>
                              <table>
                                 <tbody>
