@@ -29,7 +29,7 @@ class App extends Component {
                             </div>
                         </header>
 
-                        <Popup/>
+                        {/* <Popup/> */}
 
                         <div className="banner">
                             <Link className="banner-link" to="/covid">Click here for order info regarding Corona virus</Link>
