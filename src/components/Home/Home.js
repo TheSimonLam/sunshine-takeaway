@@ -14,11 +14,11 @@ class Home extends Component {
                     <div className="row">
                         <div className="column">
                             <h1>Opening Times</h1>
-                            <div style={{"color": "red"}}>
+                            {/* <div style={{"color": "red"}}>
                             We will be CLOSED for staff holidays
                                 <br/>
                                 from Monday 12th July, <b>Open again on Wednesday 21st July</b>
-                            </div>
+                            </div> */}
                              <table>
                                 <tbody>
                                 {/* <tr style={{"color": "red"}}>
@@ -48,7 +48,7 @@ class Home extends Component {
 
 
 
-                                {/* <tr>
+                                <tr>
                                     <td>Monday</td>
                                     <td>4:30pm - 10:00pm</td>
                                 </tr>
@@ -75,7 +75,7 @@ class Home extends Component {
                                 <tr>
                                     <td>Sunday</td>
                                     <td>5:00pm - 10:00pm</td>
-                                </tr> */}
+                                </tr>
                                 </tbody>
                             </table>
                         </div>
