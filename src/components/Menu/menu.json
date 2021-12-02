@@ -5,43 +5,43 @@
     "item": [
       {
         "name": "Fish",
-        "price": "£3.70"
+        "price": "£3.90"
       },
       {
         "name": "Chips",
-        "price": "£2.20"
-      },
-      {
-        "name": "Chip cone",
-        "price": "£1.70"
-      },
-      {
-        "name": "Peas",
-        "price": "£1.20"
-      },
-      {
-        "name": "Gravy",
-        "price": "£1.20"
-      },
-      {
-        "name": "Curry",
-        "price": "£1.20"
-      },
-      {
-        "name": "Small Sausage",
-        "price": "£1.20"
-      },
-      {
-        "name": "Jumbo Sausage",
-        "price": "£1.50"
-      },
-      {
-        "name": "Battered Burger",
         "price": "£2.50"
       },
       {
-        "name": "Battered Jumbo Sausage",
+        "name": "Chip cone",
+        "price": "£1.90"
+      },
+      {
+        "name": "Peas",
+        "price": "£1.50"
+      },
+      {
+        "name": "Gravy",
+        "price": "£1.50"
+      },
+      {
+        "name": "Curry",
+        "price": "£1.50"
+      },
+      {
+        "name": "Small Sausage",
+        "price": "£1.40"
+      },
+      {
+        "name": "Jumbo Sausage",
         "price": "£1.70"
+      },
+      {
+        "name": "Battered Burger",
+        "price": "£2.80"
+      },
+      {
+        "name": "Battered Jumbo Sausage",
+        "price": "£1.90"
       },
       {
         "name": "Potato Scallop",
@@ -49,79 +49,83 @@
       },
       {
         "name": "Fishcake",
-        "price": "£1.50"
+        "price": "£1.80"
       },
       {
         "name": "Cheese & Onion fry it",
-        "price": "£1.30"
+        "price": "£1.50"
+      },
+      {
+        "name": "Vegetable Spring Roll (3)",
+        "price": "£3.50"
       },
       {
         "name": "Mini Spring Rolls (5) with sweet & sour sauce",
-        "price": "£3.50"
+        "price": "£3.80"
       },
       {
         "name": "Chicken Breast",
-        "price": "£3.50"
+        "price": "£3.90"
       },
       {
         "name": "Onion Rings",
-        "price": "£3.20"
+        "price": "£3.50"
       },
       {
         "name": "Buttered bap",
-        "price": "£0.50"
+        "price": "£0.60"
       },
       {
         "name": "Chip bap",
-        "price": "£2.40"
+        "price": "£2.70"
       },
       {
         "name": "Scallop Bap",
-        "price": "£1.00"
+        "price": "£1.10"
       },
       {
         "name": "Beef Burger in a Bun with Salad & Relish",
-        "price": "£3.10"
+        "price": "£3.30"
       },
       {
         "name": "Cheeseburger in a Bun with Salad & Relish",
-        "price": "£3.20"
+        "price": "£3.40"
       },
       {
         "name": "Chicken Sandwich with Mayonnaise",
-        "price": "£3.20"
+        "price": "£3.40"
       },
       {
         "name": "Battered Burger Bap",
-        "price": "£3.00"
+        "price": "£3.40"
       },
       {
         "name": "Jumbo Sausage Bap",
-        "price": "£2.00"
+        "price": "£2.30"
       },
       {
         "name": "Chips and Curry",
-        "price": "£3.10"
+        "price": "£3.40"
       },
       {
         "name": "Chips and Gravy",
-        "price": "£3.10"
+        "price": "£3.40"
       },
       {
         "name": "Boiled Rice, Chips, & Curry",
-        "price": "4.40"
-      },
-      {
-        "name": "Fried Rice, Chips, & Curry",
         "price": "£4.90"
       },
       {
+        "name": "Fried Rice, Chips, & Curry",
+        "price": "£5.40"
+      },
+      {
         "name": "Sausage (2), Chips, Peas & Gravy",
-        "price": "£4.50"
+        "price": "£5.50"
       },
       {
         "name": "Chicken Nuggets & Chips",
-        "price": "£3.80"
+        "price": "£4.50"
       }
     ]
   },
@@ -130,103 +134,103 @@
     "item": [
       {
         "name": "Aromatic Cripsy Duck with Pancakes (Quarter)",
-        "price": "£8.00"
+        "price": "£9.50"
       },
       {
         "name": "Aromatic Cripsy Duck with Pancakes (Half)",
-        "price": "£15.00"
+        "price": "£17.50"
       },
       {
         "name": "Barbecued Pork Spare Ribs",
-        "price": "£6.50"
+        "price": "£7.50"
       },
       {
         "name": "Kung Po Ribs",
-        "price": "£6.50"
+        "price": "£7.50"
       },
       {
         "name": "Salt & Pepper Ribs",
-        "price": "£6.50"
+        "price": "£7.50"
       },
       {
         "name": "Sweet & Sour Ribs",
-        "price": "£6.50"
+        "price": "£7.50"
       },
       {
-        "name": "Vegetable Spring Rolls(3)",
-        "price": "£3.00"
+        "name": "Mini Spring Rolls (5) with Sweet & Sour Sauce",
+        "price": "£3.80"
       },
       {
         "name": "Prawn Toast",
-        "price": "£3.50"
+        "price": "£4.00"
       },
       {
         "name": "Curry & Veg Parcel (3)",
-        "price": "£1.80"
+        "price": "£1.90"
       },
       {
         "name": "Deep Fried King Prawns in Batter",
-        "price": "£5.50"
+        "price": "£6.00"
       },
       {
         "name": "Salt & Pepper Chicken Wings",
-        "price": "£4.50"
-      },
-      {
-        "name": "Salt & Pepper Chicken Pieces",
-        "price": "£5.80"
-      },
-      {
-        "name": "Salt & Pepper Chips",
-        "price": "£3.30"
+        "price": "£5.00"
       },
       {
         "name": "Prawn Crackers",
-        "price": "£1.70"
+        "price": "£1.90"
       },
       {
         "name": "Boiled Rice",
-        "price": "£2.00"
+        "price": "£2.30"
       },
       {
         "name": "Egg Fried Rice",
-        "price": "£2.50"
+        "price": "£2.80"
       },
       {
         "name": "Barbecue Sauce",
-        "price": "£1.50"
+        "price": "£2.00"
       },
       {
         "name": "Curry Sauce",
-        "price": "£1.20"
+        "price": "£1.50"
       },
       {
         "name": "Sweet & Sour Sauce",
-        "price": "£1.20"
+        "price": "£1.50"
       },
       {
         "name": "Portion of Mushrooms",
-        "price": "£2.30"
-      },
-      {
-        "name": "Portion of Beansprouts",
-        "price": "£2.30"
-      },
-      {
-        "name": "Bamboo Shoots & Waterchestnuts",
-        "price": "£2.30"
-      },
-      {
-        "name": "Portion of Mixed Vegetables",
-        "price": "£4.70"
-      },
-      {
-        "name": "Portion of Onions",
         "price": "£2.50"
       },
       {
+        "name": "Portion of Beansprouts",
+        "price": "£2.50"
+      },
+      {
+        "name": "Bamboo Shoots & Waterchestnuts",
+        "price": "£2.50"
+      },
+      {
+        "name": "Portion of Mixed Vegetables",
+        "price": "£5.00"
+      },
+      {
+        "name": "Portion of Onions",
+        "price": "£3.00"
+      },
+      {
         "name": "Fried Soft Noodles & Beansprouts",
-        "price": "£3.50"
+        "price": "£4.00"
+      },
+      {
+        "name": "Salt & Pepper Chicken Pieces",
+        "price": "£6.30"
+      },
+      {
+        "name": "Salt & Pepper Chips",
+        "price": "£3.80"
       }
     ]
   },
@@ -236,31 +240,31 @@
     "item": [
       {
         "name": "Special Curry",
-        "price": "£7.20"
+        "price": "£7.70"
       },
       {
         "name": "Beef Curry",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken Curry",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Pork Curry",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu Curry",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "Prawn Curry",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "King Prawn Curry",
-        "price": "£7.20"
+        "price": "£7.70"
       }
     ]
   },
@@ -270,121 +274,121 @@
     "item": [
       {
         "name": "Beef & Mushrooms",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken & Mushrooms",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Pork & Mushrooms",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu & Mushrooms",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "Prawn & Mushrooms",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "King Prawn & Mushrooms",
-        "price": "£7.20",
+        "price": "£7.70",
         "break": true
       },
       {
         "name": "Beef & Pineapple",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken & Pineapple",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Pork & Pineapple",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu & Pineapple",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "King Prawn & Pineapple",
-        "price": "£7.20",
+        "price": "£7.70",
         "break": true
       },
       {
         "name": "Beef with Bamboo Shoots & Waterchestnuts",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken with Bamboo Shoots & Waterchestnuts",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Pork with Bamboo Shoots & Waterchestnuts",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu with Bamboo Shoots & Waterchestnuts",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "King Prawn with Bamboo Shoots & Waterchestnuts",
-        "price": "£7.20",
+        "price": "£7.70",
         "break": true
       },
       {
         "name": "Chicken & Cashew Nuts",
-        "price": "£7.20"
+        "price": "£7.60"
       },
       {
         "name": "King Prawns & Cashew Nuts",
-        "price": "£7.50",
+        "price": "£8.00",
         "break": true
       },
       {
         "name": "Beef & Tomato",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken & Tomato",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu & Tomato",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "King Prawn & Tomato",
-        "price": "£7.20",
+        "price": "£7.70",
         "break": true
       },
       {
         "name": "Beef with Green Peppers & Black Bean Sauce",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken with Green Peppers & Black Bean Sauce",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "King Prawn with Green Peppers & Black Bean Sauce",
-        "price": "£7.20",
+        "price": "£7.70",
         "break": true
       },
       {
         "name": "Beef with Chinese Mushrooms",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken with Chinese Mushrooms",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "King Prawn with Chinese Mushrooms",
-        "price": "£7.20"
+        "price": "£7.70"
       }
     ]
   },
@@ -394,31 +398,31 @@
     "item": [
       {
         "name": "Special Chop Suey",
-        "price": "£7.00"
+        "price": "£7.70"
       },
       {
         "name": "Beef Chop Suey",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken Chop Suey",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Pork Chop Suey",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu Chop Suey",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "Prawn Chop Suey",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "King Prawn Chop Suey",
-        "price": "£7.20"
+        "price": "£7.70"
       }
     ]
   },
@@ -428,23 +432,23 @@
     "item": [
       {
         "name": "Special Foo Yung",
-        "price": "£7.20"
+        "price": "£7.70"
       },
       {
         "name": "Chicken Foo Yung",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu Foo Yung",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "Prawn Foo Yung",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "King Prawn Foo Yung",
-        "price": "£7.20"
+        "price": "£7.70"
       }
     ]
   },
@@ -454,23 +458,23 @@
     "item": [
       {
         "name": "Sweet & Sour Chicken",
-        "price": "£6.50"
+        "price": "£7.00"
       },
       {
         "name": "Sweet & Sour Pork",
-        "price": "£6.50"
+        "price": "£7.00"
       },
       {
         "name": "Sweet & Sour King Prawn",
-        "price": "£7.00"
+        "price": "£7.50"
       },
       {
         "name": "Shredded Crispy Beef in Sweet & Sour Sauce",
-        "price": "£7.00"
+        "price": "£7.50"
       },
       {
         "name": "Shredded Crispy Chicken in Sweet & Sour Sauce",
-        "price": "£6.80"
+        "price": "£7.30"
       }
     ]
   },
@@ -480,35 +484,35 @@
     "item": [
       {
         "name": "Special Fried Rice",
-        "price": "£7.00"
+        "price": "£7.30"
       },
       {
         "name": "Chicken Fried Rice",
-        "price": "£6.50"
-      },
-      {
-        "name": "Char Siu Fried Rice",
-        "price": "£6.60"
-      },
-      {
-        "name": "Prawn Chop Fried Rice",
-        "price": "£6.50"
-      },
-      {
-        "name": "King Prawn Fried Rice",
-        "price": "£7.00"
-      },
-      {
-        "name": "Yung Chow Fried Rice",
         "price": "£6.80"
       },
       {
+        "name": "Char Siu Fried Rice",
+        "price": "£6.90"
+      },
+      {
+        "name": "Prawn Chop Fried Rice",
+        "price": "£6.80"
+      },
+      {
+        "name": "King Prawn Fried Rice",
+        "price": "£7.30"
+      },
+      {
+        "name": "Yung Chow Fried Rice",
+        "price": "£7.10"
+      },
+      {
         "name": "Ham Fried Rice",
-        "price": "£6.50"
+        "price": "£6.80"
       },
       {
         "name": "Singapore Fried Rice",
-        "price": "£6.80",
+        "price": "£7.10",
         "hot": true
       }
     ]
@@ -519,39 +523,39 @@
     "item": [
       {
         "name": "Special Chow Mein",
-        "price": "£7.00"
+        "price": "£7.30"
       },
       {
         "name": "Beef Chow Mein",
-        "price": "£6.90"
+        "price": "£7.20"
       },
       {
         "name": "Chicken Chow Mein",
-        "price": "£6.70"
+        "price": "£7.00"
       },
       {
         "name": "Pork Chow Mein",
-        "price": "£6.70"
+        "price": "£7.00"
       },
       {
         "name": "Char Siu Chow Mein",
-        "price": "£6.80"
+        "price": "£7.10"
       },
       {
         "name": "Prawn Chow Mein",
-        "price": "£6.70"
+        "price": "£7.00"
       },
       {
         "name": "King Prawn Chow Mein",
-        "price": "£7.20"
+        "price": "£7.50"
       },
       {
         "name": "Curried Beef Chow Mein",
-        "price": "£7.20"
+        "price": "£7.50"
       },
       {
         "name": "Singapore Chow Mein",
-        "price": "£7.00",
+        "price": "£7.30",
         "hot": true
       }
     ]
@@ -562,19 +566,19 @@
     "item": [
       {
         "name": "Special Satay",
-        "price": "£7.30"
+        "price": "£7.80"
       },
       {
         "name": "Beef Satay",
-        "price": "£7.00"
+        "price": "£7.50"
       },
       {
         "name": "Chicken Satay",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "King Prawn Satay",
-        "price": "£7.30"
+        "price": "£7.80"
       }
     ]
   },
@@ -584,27 +588,27 @@
     "item": [
       {
         "name": "Special Kung Po",
-        "price": "£7.30",
+        "price": "£7.80",
         "hot": true
       },
       {
         "name": "Beef Kung Po",
-        "price": "£7.00",
+        "price": "£7.50",
         "hot": true
       },
       {
         "name": "Chicken Kung Po",
-        "price": "£6.80",
+        "price": "£7.30",
         "hot": true
       },
       {
         "name": "Char Siu Kung Po",
-        "price": "£6.90",
+        "price": "£7.40",
         "hot": true
       },
       {
         "name": "King Prawn Kung Po",
-        "price": "£7.30",
+        "price": "£7.80",
         "hot": true
       }
     ]
@@ -615,23 +619,23 @@
     "item": [
       {
         "name": "Cantonese Sauce Special",
-        "price": "£7.20"
+        "price": "£7.70"
       },
       {
         "name": "Beef in Cantonese Sauce",
-        "price": "£6.90"
+        "price": "£7.40"
       },
       {
         "name": "Chicken in Cantonese Sauce",
-        "price": "£6.70"
+        "price": "£7.20"
       },
       {
         "name": "Char Siu in Cantonese Sauce",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "King Prawn in Cantonese Sauce",
-        "price": "£7.20"
+        "price": "£7.70"
       }
     ]
   },
@@ -641,15 +645,15 @@
     "item": [
       {
         "name": "Garlic Sauce Special",
-        "price": "£7.30"
+        "price": "£7.80"
       },
       {
         "name": "Chicken in Garlic Sauce",
-        "price": "£6.80"
+        "price": "£7.30"
       },
       {
         "name": "King Prawn in Garlic Sauce",
-        "price": "£7.30"
+        "price": "£7.80"
       }
     ]
   },
@@ -659,32 +663,32 @@
     "item": [
       {
         "name": "Chilli Sauce Special",
-        "price": "£7.30",
+        "price": "£7.80",
         "hot": true
       },
       {
         "name": "Beef in Chilli Sauce",
-        "price": "£7.00",
+        "price": "£7.50",
         "hot": true
       },
       {
         "name": "Chicken in Chilli Sauce",
-        "price": "£6.80",
+        "price": "£7.30",
         "hot": true
       },
       {
         "name": "Pork in Chilli Sauce",
-        "price": "£6.80",
+        "price": "£7.30",
         "hot": true
       },
       {
         "name": "Char Ciu in Chilli Sauce",
-        "price": "£6.90",
+        "price": "£7.40",
         "hot": true
       },
       {
         "name": "King Prawn in Chilli Sauce",
-        "price": "£7.30",
+        "price": "£7.80",
         "hot": true
       }
     ]
@@ -695,17 +699,17 @@
     "item": [
       {
         "name": "Szechuan Sauce Special",
-        "price": "£7.30",
+        "price": "£7.80",
         "hot": true
       },
       {
         "name": "Beef in Szechuan Sauce",
-        "price": "£7.00",
+        "price": "£7.50",
         "hot": true
       },
       {
         "name": "Chicken in Szechuan Sauce",
-        "price": "£6.80",
+        "price": "£7.30",
         "hot": true
       }
     ]
@@ -716,42 +720,42 @@
     "item": [
       {
         "name": "Fried Onions & Mushrooms in Soy Sauce",
-        "price": "£6.00",
+        "price": "£6.50",
         "vegetarian": true
       },
       {
         "name": "Mixed vegetable curry",
-        "price": "£6.30",
+        "price": "£6.80",
         "vegetarian": true
       },
       {
         "name": "Mushroom Curry",
-        "price": "£6.30",
+        "price": "£6.80",
         "vegetarian": true
       },
       {
         "name": "Mixed Vegetable Chop Suey",
-        "price": "£6.30",
+        "price": "£6.80",
         "vegetarian": true
       },
       {
         "name": "Mixed Vegetable Chow Mein",
-        "price": "£6.30",
+        "price": "£6.80",
         "vegetarian": true
       },
       {
         "name": "Mushrooms with Green Peppers & Black Bean Sauce",
-        "price": "£6.30",
+        "price": "£6.80",
         "vegetarian": true
       },
       {
         "name": "Mixed Vegetables with Garlic Sauce",
-        "price": "£6.40",
+        "price": "£6.90",
         "vegetarian": true
       },
       {
         "name": "Spicy Peppers with Chilli Sauce",
-        "price": "£6.40",
+        "price": "£6.90",
         "hot": true,
         "vegetarian": true
       }
@@ -763,43 +767,43 @@
     "item": [
       {
         "name": "Mixed Grill",
-        "price": "£7.50"
+        "price": "£8.00"
       },
       {
         "name": "Liver & Onions",
-        "price": "£6.40"
+        "price": "£6.90"
       },
       {
         "name": "Liver, Bacon & Onions",
-        "price": "£6.70"
-      },
-      {
-        "name": "Chicken Omelette",
-        "price": "£6.70"
-      },
-      {
-        "name": "Ham Omelette",
-        "price": "£6.70"
-      },
-      {
-        "name": "Prawn Omelette",
-        "price": "£6.70"
-      },
-      {
-        "name": "King Prawn Omelette",
         "price": "£7.20"
       },
       {
+        "name": "Chicken Omelette",
+        "price": "£7.20"
+      },
+      {
+        "name": "Ham Omelette",
+        "price": "£7.20"
+      },
+      {
+        "name": "Prawn Omelette",
+        "price": "£7.20"
+      },
+      {
+        "name": "King Prawn Omelette",
+        "price": "£7.70"
+      },
+      {
         "name": "Spanish Omelette",
-        "price": "£7.00"
+        "price": "£7.50"
       },
       {
         "name": "Mushroom Omelette",
-        "price": "£6.30"
+        "price": "£6.80"
       },
       {
         "name": "Cheese & Onion Omelette",
-        "price": "£6.10"
+        "price": "£6.60"
       }
     ]
   }
