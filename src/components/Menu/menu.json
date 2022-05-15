@@ -5,7 +5,11 @@
     "item": [
       {
         "name": "Fish",
-        "price": "£3.90"
+        "price": "£4.80"
+      },
+      {
+        "name": "Fish & chips",
+        "price": "£7.10"
       },
       {
         "name": "Chips",
