@@ -29,7 +29,7 @@ class App extends Component {
                 <a
                   className="header-link"
                   target="_blank"
-                  href="https://sunshine-takeaway-menu-pdf.s3.eu-west-1.amazonaws.com/sunshine-takeaway-menu.pdf"
+                  href="https://sunshine-takeaway-menu-pdf.s3.eu-west-1.amazonaws.com/sunshine-takeaway-menu-v2.pdf"
                 >
                   Menu
                 </a>
