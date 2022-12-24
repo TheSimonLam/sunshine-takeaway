@@ -37,7 +37,7 @@ class Home extends Component {
                 <tbody>
                   <tr style={{ color: "red" }}>
                     <td>24th Dec</td>
-                    <td>4:30pm - 10:00pm</td>
+                    <td>4:30pm - 9:30pm</td>
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>25th Dec</td>
