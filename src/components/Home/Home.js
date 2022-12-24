@@ -35,9 +35,9 @@ class Home extends Component {
 
               <table>
                 <tbody>
-                  {/* <tr style={{ color: "red" }}>
+                  <tr style={{ color: "red" }}>
                     <td>24th Dec</td>
-                    <td>4:30pm - 9:00pm</td>
+                    <td>4:30pm - 10:00pm</td>
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>25th Dec</td>
@@ -53,19 +53,19 @@ class Home extends Component {
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>28th Dec</td>
-                    <td>CLOSED</td>
+                    <td>4:30pm - 9:30pm</td>
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>29th Dec</td>
-                    <td>4:30pm - 10:00pm</td>
+                    <td>4:30pm - 9:30pm</td>
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>30th Dec</td>
-                    <td>4:30pm - 10:00pm</td>
+                    <td>4:30pm - 9:30pm</td>
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>31st Dec</td>
-                    <td>4:30pm - 9:00pm</td>
+                    <td>4:30pm - 9:30pm</td>
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>1st Jan</td>
@@ -73,22 +73,18 @@ class Home extends Component {
                   </tr>
                   <tr style={{ color: "red" }}>
                     <td>2nd Jan</td>
-                    <td>4:30pm - 10:00pm</td>
-                  </tr>
-                  <tr style={{ color: "red" }}>
-                    <td>3rd Jan</td>
-                    <td>4:30pm - 10:00pm</td>
-                  </tr>
-                  <tr style={{ color: "red" }}>
-                    <td>4th Jan</td>
                     <td>CLOSED</td>
                   </tr>
                   <tr style={{ color: "red" }}>
-                    <td>5th Jan</td>
-                    <td>4:30pm - 10:00pm</td>
+                    <td>3rd Jan</td>
+                    <td>CLOSED</td>
+                  </tr>
+                  <tr style={{ color: "red" }}>
+                    <td>4th Jan</td>
+                    <td>4:30pm - 9:30pm</td>
                   </tr>
 
-                  <br></br> */}
+                  <br></br>
 
                   <tr>
                     <td>Monday</td>
