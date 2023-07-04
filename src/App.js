@@ -38,7 +38,7 @@ class App extends Component {
               </div>
             </header>
 
-            {/* <Popup/> */}
+            <Popup/>
 
             <div className="cookie-notice-wrapper">
               <span>

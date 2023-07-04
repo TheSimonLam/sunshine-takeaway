@@ -29,10 +29,23 @@ class Popup extends Component {
               </g>
             </svg>
 
-            <h2 className={"notice-title"}>Closed for Staff Holidays</h2>
+            <h2 className={"notice-title"}>Surcharge due to potato shortage</h2>
             <div className={"notice-content"}>
               <div style={{ color: "red" }}>
-              We are CLOSED for a staff holiday and will open again on Friday 12th August
+                There is currently a shortage of chipping potatoes in the UK and
+                it has meant that the price of these potatoes have increased
+                significantly in recent weeks. <br></br> They have now reached a level
+                that is well beyond the usual expected price range, which we
+                normally absorb, and we need to increase the price of portions
+                of chips to compensate.<br></br> Since we only expect the shortage to
+                last until the new crop of potatoes are ready to be harvested
+                this year, we are introducing a temporary surcharge on chips.
+                and when the price of potatoes comes back into the expected
+                range, the surcharge will end.<br></br> The surcharge will be: 40p per
+                portion of chips 30p per portion of small chips 20p per chip
+                cone 30p will be added for each meal with chips or where you
+                have the chips option Surcharges are only on chips. Other foods
+                are not affected.
                 {/* <br />
                 <b>Open again the next day on Wednesday 20th July</b> */}
               </div>
