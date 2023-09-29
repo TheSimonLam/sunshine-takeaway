@@ -56,7 +56,9 @@ const App = () => {
             </div>
           </header>
 
-          {notice && <Popup notice={notice} />}
+          {notice && (notice.noticeTitle || notice.noticeBody) && (
+            <Popup notice={notice} />
+          )}
 
           <div className="cookie-notice-wrapper">
             <span>
