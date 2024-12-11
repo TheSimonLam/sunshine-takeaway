@@ -1,33 +1,27 @@
-import React, {Component} from "react";
-import './Menu.css';
-import menu from './menu.json';
+import React, { Component } from "react";
+import "./Menu.css";
 
 class Menu extends Component {
-    render() {
-        let menuList = menu.map(function(menuCategory, i){
-            let itemList = menuCategory.item.map(function(item, x){
-                return <div className="menu-column-outer" key={x}>
-                    <div className="menu-column-inner">{item.name}</div>
-                    <div className="menu-column-inner menu-price-bottom-right">{item.price}</div>
-                </div>;
-            });
-            return <div className="column" key={i}>
-                        <h2>{menuCategory.name}</h2>
-                        {itemList}
-                    </div>;
-        });
-
-        return (
-            <div className='menu-section'>
-                <h1 className='menu-title'>Menu</h1>
-                <div className='middle-section'>
-                    <div className="menu-row">
-                        { menuList }
-                    </div>
-                </div>
-            </div>
-        );
-    }
+  render() {
+    return (
+      <div style={{ height: "100vh" }}>
+        <object
+          data="https://sunshine-takeaway-menu-pdf.s3.eu-west-1.amazonaws.com/sunshine-takeaway-menu.pdf"
+          type="application/pdf"
+          width="100%"
+          height="100%"
+        >
+          <p>
+            It appears you don't have a PDF plugin for this browser. No
+            biggie... you can{" "}
+            <a href="https://sunshine-takeaway-menu-pdf.s3.eu-west-1.amazonaws.com/sunshine-takeaway-menu.pdf">
+              click here to download the PDF file.
+            </a>
+          </p>
+        </object>
+      </div>
+    );
+  }
 }
 
 export default Menu;

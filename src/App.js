@@ -43,13 +43,9 @@ const App = () => {
               <Link className="header-link" to="/">
                 Home
               </Link>
-              <a
-                className="header-link"
-                target="_blank"
-                href="http://docs.google.com/gview?embedded=true&url=https://sunshine-takeaway-menu-pdf.s3.eu-west-1.amazonaws.com/sunshine-takeaway-menu.pdf"
-              >
+              <Link className="header-link" to="/menu">
                 Menu
-              </a>
+              </Link>
               <Link className="header-link" to="/about">
                 About
               </Link>
