@@ -30,19 +30,6 @@ class About extends Component {
                                 Address: 63 Heol Celyn, Coedpoeth, Wrexham, LL11 3HR </div>
                         </div>
                     </div>
-
-                    <div className="row">
-                        <div className="column">
-                            <h1>Frequently Asked Questions</h1>
-                            <div>Q: Do you do deliveries?<br/>A: Unfortunately, we do not process deliveries at this moment in time.</div>
-                            <br/>
-                            <div>Q: How long will my food take to make? <br/>A: We're usually busier on weekends, but on average it should take around 10 minutes for you food to be prepared.
-                                If you phone in for collection, we can prepare your food before you arrive making the process faster. </div>
-                            <br/>
-                            <div>Q: Do you have any special offers? <br/>A: If your order comes to £23 or more, you will be offered a free bag of prawn crackers. £42 or more and you will receive a 2L bottle of soft drink for free.</div>
-                            <br/>
-                        </div>
-                    </div>
                 </div>
             </div>
         );

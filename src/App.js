@@ -68,13 +68,6 @@ const App = () => {
           <Route path="/about" component={About} />
         </div>
       </Router>
-
-      <footer>
-        <div className="footer-wrapper">
-          Site created by Simon Lam. © 2018 | Sunshine Takeaway. All Rights
-          Reserved.
-        </div>
-      </footer>
     </div>
   );
 };
